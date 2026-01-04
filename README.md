@@ -8,7 +8,7 @@ Reconstructing high-resolution images from coarse-resolution observations is a c
 
 ## Dataset
 
-* Multi-source geospatial datasets (Dataset A)
+* Multi-source geospatial datasets
 * Combination of primary low-resolution images and auxiliary constraint variables
 * Target resolution: coarse (~10–25 km) → fine (~500 m)
 * Independent temporal periods for training and evaluation
