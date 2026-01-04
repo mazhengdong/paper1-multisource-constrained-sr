@@ -1,2 +1,7 @@
-# paper2-multisource-constrained-sr
-Project repository for GAN-based multi-source image super-resolution (Paper 2).
+## Dataset
+- Dataset B (different spatial resolution & constraints)
+
+## Differences from Paper 1
+- Different input feature combinations
+- Different training window & evaluation settings
+
